@@ -1,5 +1,5 @@
 # MICKAEL REIS
-João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/)
+João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674)
 
 Data Analysis • Data Science • Data Engineering • Business Intelligence
 
@@ -26,6 +26,12 @@ Intership at Engeselt, located in João Pessoa - PB. Service of design and budge
 * Incomplete Bachalor in Electrical Engineering at IFPB - Campus João Pessoa (2018-).
 
 # PROJECTS
+### [QlikView Dashboard of State Medicine Invoids](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
+From a database of public invoids at Court of Auditors of Paraíba, the data is extacted, filtered and organized through SQL scripts to feed a QlikView Dashboard. The goal is monitor the Paraíba's spendings and transactions of medicines and hospital supplies as well as companies.
+
+### [QlikView Dashboard of Health Stablishments](https://github.com/mickaelyoshua7674/datasus_health_stablishments)
+Extract, transform and load data from the ftp server of DATASUS about helth stablishments.
+
 
 # SKILLS
 * Data Analysis / Business Intelligence: QlikView, Tableau, Statistics, Probability, Relational Database;
