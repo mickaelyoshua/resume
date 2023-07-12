@@ -26,12 +26,14 @@ Intership at Engeselt, located in João Pessoa - PB. Service of design and budge
 * Incomplete Bachalor in Electrical Engineering at IFPB - Campus João Pessoa (2018-).
 
 # PROJECTS
-### [QlikView Dashboard of State Medicine Invoids](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
+## [QlikView Dashboard of State Medicine Invoids](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
 From a database of public invoids at Court of Auditors of Paraíba, the data is extacted, filtered and organized through SQL scripts to feed a QlikView Dashboard. The goal is monitor the Paraíba's spendings and transactions of medicines and hospital supplies as well as companies.
 
-### [QlikView Dashboard of Health Stablishments](https://github.com/mickaelyoshua7674/datasus_health_stablishments)
-Extract, transform and load data from the ftp server of DATASUS about helth stablishments.
+## [QlikView Dashboard of Health Stablishments](https://github.com/mickaelyoshua7674/datasus_health_stablishments)
+Extract, transform and load data from the ftp server of DATASUS about helth stablishments. From the extracted data, feed a QlikView Dashboard with the goal of analyse the production of health stablishments and data of health professionals, an alternative way of traking their contracts and links with stablishments.
 
+## [Instagram Bot](https://github.com/mickaelyoshua7674/insta_feed_data)
+A Instagram robot using `selenium webdriver` to collect data from user posts (number of likes, publication date, text of comments, text of description, link of publishment). The goal is collect the data to make a sentiment analyses about the interaction with every post.
 
 # SKILLS
 * Data Analysis / Business Intelligence: QlikView, Tableau, Statistics, Probability, Relational Database;
