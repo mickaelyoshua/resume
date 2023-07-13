@@ -3,7 +3,9 @@ João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www
 
 Data Analysis • Data Science • Data Engineering • Business Intelligence
 
-Hi, my name is Mickael Yoshua Cardoso Reis. I've been loving work with data science started my Intership at Court of Auditors of Paraíba and have been studying the field and practicing since then. Also love dance (is like breathing to me), working out, outdoor activities, and the geek/pop culture.
+Hi, my name is Mickael Yoshua Cardoso Reis. I've been loving work with data science since I started my Intership at Court of Auditors of Paraíba and have been studying the field and practicing since then.
+
+I also love dance (is like breathing to me), working out, outdoor activities, and the geek/pop culture.
 
 I'm searching for new opportunities to grow and contribute in my professional area about Data Science and hope you'll considere me to a job so we can work together.
 
