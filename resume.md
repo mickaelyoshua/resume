@@ -15,6 +15,7 @@ Intership at Court of Auditors of Paraíba, located in João Pessoa - PB.
 
 * Build dashboards for data analysis and for Auditors to consult;
 * Extract, Transform and Load data (ETL) to feed dashboards and analysis reports;
+* Bulid Database;
 * Web Scraping scripts;
 * Test Recurrent Neural Networks (RNN).
 
@@ -36,7 +37,7 @@ Intership at Engeselt, located in João Pessoa - PB. Service of design and budge
 From a database of public invoids at Court of Auditors of Paraíba, the data is extacted, filtered and organized through SQL scripts to feed a QlikView Dashboard. The goal is monitor the Paraíba's spendings and transactions of medicines and hospital supplies as well as companies.
 
 ### [QlikView Dashboard of Health Stablishments](https://github.com/mickaelyoshua7674/datasus_health_stablishments)
-Extract, transform and load data from the ftp server of DATASUS about helth stablishments. From the extracted data, feed a QlikView Dashboard with the goal of analyse the production of health stablishments and data of health professionals, an alternative way of traking their contracts and links with stablishments.
+Extract, transform and Load data from the ftp server of DATASUS about helth stablishments into a Database. From that Database, feed a QlikView Dashboard with the goal of analyse the production of health stablishments and data of health professionals, an alternative way of traking their contracts and links with stablishments.
 
 ### [Instagram Bot](https://github.com/mickaelyoshua7674/insta_feed_data)
 A Instagram robot using `selenium webdriver` to collect data from user posts (number of likes, publication date, text of comments, text of description, link of publishment). The goal is collect the data to make a sentiment analyses about the interaction with every post.
