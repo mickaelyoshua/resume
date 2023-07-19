@@ -13,13 +13,14 @@ I'm searching for new opportunities to grow and contribute in my professional ar
 ## Intern in Data Analysis - Jun 2022 to Present
 Intership at Court of Auditors of Paraíba, located in João Pessoa - PB.
 
+* Build Relational Database;
 * Build dashboards for data analysis and for Auditors to consult;
 * Extract, Transform and Load data (ETL) to feed dashboards and analysis reports;
 * Bulid Database;
 * Web Scraping scripts;
 * Test Recurrent Neural Networks (RNN).
 
-Contribute to analysis of public invoids (medicine and hospital material) by making SQL and QlikView scripts to feed a dashboard. Automate the extraction of data from DATASUS, from that transform and load the data into a QlikView Dashboard.
+Contribute to analysis of public invoids (medicine and hospital material) by making SQL and QlikView scripts to feed a dashboard. Automate the extraction of data from DATASUS, from that transform and load the data into a Relational DataBase and a QlikView Dashboard.
 
 Made a bot to collect data from instagram posts of public accounts in order to make a Natural Language Processing (NLP) of comments classifying the sentiments on posts and analyse the metrics.
 
