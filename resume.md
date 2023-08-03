@@ -41,21 +41,21 @@ From a database of public invoids at Court of Auditors of Paraíba, the data is 
 Extract, transform and Load data from the ftp server of DATASUS about helth stablishments into a Database. From that Database, feed a QlikView Dashboard with the goal of analyse the production of health stablishments and data of health professionals, an alternative way of traking their contracts and links with stablishments.
 
 ### [Instagram Bot](https://github.com/mickaelyoshua7674/insta_feed_data)
-A Instagram robot using `selenium webdriver` to collect data from user posts (number of likes, publication date, text of comments, text of description, link of publishment). The goal is collect the data to make a sentiment analyses about the interaction with every post.
+A Instagram robot using `selenium webdriver` to collect data from user posts (number of likes, publication date, text of comments, text of description, link of publishment) and get list of followers and followings. The goal is collect the data to make a sentiment analyses about the interaction with every post and keep track of who stoped following the user.
 
-### [Atomated Extraction DATASUS in AWS](https://github.com/mickaelyoshua7674/aws_create_health_establishments_database)
+### [Atomated Extraction DATASUS into AWS](https://github.com/mickaelyoshua7674/aws_create_health_establishments_database)
 Extract, organize and store data from the ftp server of DATASUS about helth stablishments into S3 Bucket using AWS Glue.
 
-### [Creation of dataset of medicine invoids](https://github.com/mickaelyoshua7674/create_training_dataset_medicine_invoids)
+### [Creation of medicine invoids dataset](https://github.com/mickaelyoshua7674/create_training_dataset_medicine_invoids)
 From a database of public invoids at Court of Auditors of Paraíba, the data is extacted, filtered and organized through SQL scripts to build a dataset with the labels `medicine productos / hospital material / others`.
 
 ### [Comparing differents RNNs](https://github.com/mickaelyoshua7674/comparing_differents_RNNs)
-Using a dataset of public invoids description with labels `fuel / medicine / nan`, train diffrents types of Recurrent Neural Networks (LSTM / GRU / Bidirectional / SimpleRNN) to see witch one have the best results.
+Using a dataset of public invoids with labels `fuel / medicine / nan` to train diffrents types of Recurrent Neural Networks (LSTM / GRU / Bidirectional / SimpleRNN) with the goal of see witch one have the best results.
 
 # SKILLS
 * Data Analysis / Business Intelligence: QlikView, Tableau, Statistics, Probability, Relational Database;
 * Data Science: Pandas, Numpy, Scikit-Learn, Tensorflow, Machine Learning, NLP;
 * Data Engineering: Amazon Web Service (AWS), Pyspark, Database, Docker;
-* Others: Git, Python, SQL, Django, Web Scraping.
+* Others: Git, Python, SQL, Web Scraping.
 
 [Certificates](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)
