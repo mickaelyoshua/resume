@@ -5,7 +5,7 @@ Data Analysis • Data Engineering • Business Intelligence
 
 Hi, my name is Mickael Yoshua Cardoso Reis. I've been loving work with Data Analysis / Engineering since I started my Intership at Court of Auditors of Paraíba and have been studying the field and practicing since then.
 
-I also love dance (is like breathing to me), working out, outdoor activities, and the geek/pop culture.
+I also love dance (is like breathing to me), working out, outdoor activities.
 
 I'm searching for new opportunities to grow and contribute in my professional area of Data and hope you'll considere me to a job so we can work together.
 
@@ -29,7 +29,7 @@ Intership at Engeselt, located in João Pessoa - PB. Service of design and budge
 * Studying Compute Science at UNIPÊ - (2024-).
 
 # PROJECTS
-### [ETL of public Companie's Data] (https://github.com/mickaelyoshua7674/etl-cnpjs)
+### [ETL of public Companie's Data](https://github.com/mickaelyoshua7674/etl-cnpjs)
 Automatic PostgreSQL DataBase builder using Docker. Extract, Transform and Load data from Brazil's Receita Federal (data made available by the Governmet). This project made with Docker, Python e PostgreSQL use Asynchronous I/O, Synchronous Programming, Asynchronous Programming (Processes and Threads) and OOP (Object Oriented Programming). Initial idea is be able to get the contact os companies using different filters such as CNES, region, status etc.
 
 ### [QlikView Dashboard of State Medicine Invoids](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
