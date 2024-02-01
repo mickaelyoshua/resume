@@ -38,9 +38,6 @@ Automatic ETL from DATASUS's FTP Server into a SQL Server DataBase on Tribunal d
 ### [QlikView Dashboard of State Medicine Invoids](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
 From a database of public invoids at Paraíba's Court of Auditors, the data is extacted, filtered and organized through SQL scripts to feed a QlikView Dashboard. The goal is monitor the spendings and transactions of medicines and hospital supplies as well as companies.
 
-### [Relational Database of Health Stablishments](https://github.com/mickaelyoshua7674/datasus_health_stablishments)
-Extract, transform and Load data about helth stablishments from the DATASUS's FTP server into a Database. From that Database, feed a QlikView Dashboard with the goal of analyse the production of health stablishments and data of health professionals, an alternative way of traking their contracts and links with stablishments.
-
 ### [Instagram Bot](https://github.com/mickaelyoshua7674/insta_feed_data)
 An Instagram robot using `selenium webdriver` to collect data from user posts (number of likes, publication date, text of comments, text of description, link of publishment) and get list of followers and followings. The goal is collect the data to make a sentiment analyses about the interaction with every post and keep track of who stoped following the user.
 

@@ -38,9 +38,6 @@ ETL automático do Servidor FTP do DATASUS para Banco de Dados SQL Server no Tri
 ### [Painel QlikView de faturas de medicamentos estaduais](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
 A partir de um banco de dados de notas fiscais públicas do Tribunal de Contas da Paraíba, os dados são extraídos, filtrados e organizados através de scripts SQL para alimentar um Dashboard QlikView. O objetivo é monitorar os gastos e transações de medicamentos e insumos hospitalares e de empresas.
 
-### [Banco de dados relacional de estabelecimentos de saúde](https://github.com/mickaelyoshua7674/datasus_health_stablishments)
-Extrair, transformar e carregar dados sobre estabelecimentos de saúde do servidor FTP do DATASUS em um Banco de Dados. A partir desse Banco de Dados, alimentar um Dashboard QlikView com o objetivo de analisar a produção dos estabelecimentos de saúde e dados dos profissionais de saúde, uma forma alternativa de acompanhar seus contratos e vínculos com os estabelecimentos.
-
 ### [Bot do Instagram](https://github.com/mickaelyoshua7674/insta_feed_data)
 Um robô do Instagram usando `Selenium webdriver` para coletar dados de postagens de usuários (número de curtidas, data de publicação, texto de comentários, texto de descrição, link de publicação) e obter lista de seguidores e seguidores. O objetivo é coletar dados para fazer uma análise de sentimento sobre a interação com cada postagem e acompanhar quem deixou de seguir o usuário.
 
