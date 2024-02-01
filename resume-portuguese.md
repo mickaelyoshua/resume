@@ -32,6 +32,9 @@ Estágio na Engeselt, localizada em João Pessoa - PB. Serviço de design e orç
 ### [ETL de dados públicos de empresa](https://github.com/mickaelyoshua7674/etl-cnpjs)
 Construtor automático de banco de dados PostgreSQL usando Docker. Extrair, Transformar e Carregar dados da Receita Federal do Brasil (dados disponibilizados pelo Governo). Este projeto foi feito com Docker, Python e PostgreSQL utilizando I/O Assíncrono, Programação Síncrona, Programação Assíncrona (Processos e Threads) e OOP (Programação Orientada a Objetos). A ideia inicial é conseguir o contato das empresas utilizando diversos filtros como CNES, região, status etc.
 
+### [ETL DATASUS](https://github.com/mickaelyoshua7674/etl-datasus)
+ETL automático do Servidor FTP do DATASUS para Banco de Dados SQL Server no Tribunal de Contas da Paraíba. Os dados são do Sistema Público de Saúde SUS, contendo informações sobre estabelecimentos de saúde e profissionais de saúde. Este projeto foi feito com Docker, Python e SQL Server utilizando I/O Assíncrono, Programação Síncrona, Programação Assíncrona (Processos e Threads) e OOP (Programação Orientada a Objetos). A ideia inicial é poder verificar o número de contratos de cada profissional de saúde e a produção dos estabelecimentos de saúde.
+
 ### [Painel QlikView de faturas de medicamentos estaduais](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
 A partir de um banco de dados de notas fiscais públicas do Tribunal de Contas da Paraíba, os dados são extraídos, filtrados e organizados através de scripts SQL para alimentar um Dashboard QlikView. O objetivo é monitorar os gastos e transações de medicamentos e insumos hospitalares e de empresas.
 

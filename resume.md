@@ -30,7 +30,10 @@ Intership at Engeselt, located in João Pessoa - PB. Service of design and budge
 
 # PROJECTS
 ### [ETL of public Companie's Data](https://github.com/mickaelyoshua7674/etl-cnpjs)
-Automatic PostgreSQL DataBase builder using Docker. Extract, Transform and Load data from Brazil's Receita Federal (data made available by the Governmet). This project made with Docker, Python e PostgreSQL use Asynchronous I/O, Synchronous Programming, Asynchronous Programming (Processes and Threads) and OOP (Object Oriented Programming). Initial idea is be able to get the contact os companies using different filters such as CNES, region, status etc.
+Automatic PostgreSQL DataBase builder using Docker. Extract, Transform and Load data from Brazil's Receita Federal (data made available by the Governmet). This project was made with Docker, Python and PostgreSQL using Asynchronous I/O, Synchronous Programming, Asynchronous Programming (Processes and Threads) and OOP (Object Oriented Programming). Initial idea is be able to get the contact os companies using different filters such as CNES, region, status etc.
+
+### [ETL DATASUS](https://github.com/mickaelyoshua7674/etl-datasus)
+Automatic ETL from DATASUS's FTP Server into a SQL Server DataBase on Tribunal de Contas da Paraíba. The data is from the Brazil's Public Health System SUS, having information about health stablishments and helth professionals. This project was made with Docker, Python and SQL Server using Asynchronous I/O, Synchronous Programming, Asynchronous Programming (Processes and Threads) and OOP (Object Oriented Programming). Initial idea is be able to check the number of contracts of each health professional and the production of health stablishments.
 
 ### [QlikView Dashboard of State Medicine Invoids](https://github.com/mickaelyoshua7674/qlikview_dashboard_for_medicine_invoids)
 From a database of public invoids at Paraíba's Court of Auditors, the data is extacted, filtered and organized through SQL scripts to feed a QlikView Dashboard. The goal is monitor the spendings and transactions of medicines and hospital supplies as well as companies.
