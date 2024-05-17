@@ -5,8 +5,6 @@ Data Analysis • Data Engineering • Business Intelligence
 
 Hi, my name is Mickael Yoshua Cardoso Reis. I've been loving work with Data Analysis / Engineering since I started my Intership at Court of Auditors of Paraíba and have been studying the field and practicing since then.
 
-I also love dance (is like breathing to me), working out, outdoor activities.
-
 I'm searching for new opportunities to grow and contribute in my professional area of Data and hope you'll consider me to a job so we can work together.
 
 # SKILLS

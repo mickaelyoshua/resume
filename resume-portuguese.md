@@ -5,8 +5,6 @@ Análise de Dados • Engenharia de Dados • Business Intelligence
 
 Olá, meu nome é Mickael Yoshua Cardoso Reis. Gosto muito de trabalhar com Análise/Engenharia de Dados desde que comecei meu Estágio no Tribunal de Contas da Paraíba e venho estudando e praticando a área e desde então.
 
-Também amo dançar (para mim é como respirar), treinar, atividades ao ar livre.
-
 Estou em busca de novas oportunidades para crescer e contribuir na minha área profissional de Dados e espero que vocês me considerem um emprego para que possamos trabalhar juntos.
 
 # HABILIDADES
