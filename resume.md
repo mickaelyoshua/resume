@@ -1,11 +1,10 @@
 # MICKAEL REIS
 João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674)
 
-Data Analysis • Data Engineering • Business Intelligence
+Data Analysis • Data Engineering
 
-Hi, my name is Mickael Yoshua Cardoso Reis. I've been loving work with Data Analysis / Engineering since I started my Intership at Court of Auditors of Paraíba and have been studying the field and practicing since then.
-
-I'm searching for new opportunities to grow and contribute in my professional area of Data and hope you'll consider me to a job so we can work together.
+Hi, my name is Mickael Yoshua. I have strong experience with Data Engineering and Data Analysis. I have contribue building and managing two Data Bases for the Paraíba's Court of Accounts, made several reports using Python and SQL bringing differents insights about the economic situation of cities and states through Statistical Analysis and use of Indicators and created dashboards in QlikView for better data visualization and analysis.<br>
+I'm seraching for new oportunities to grow and contribue in Data professional area and hope that you'll consider me to a spot so we can work together
 
 # SKILLS
 * Data Analysis / Business Intelligence: QlikView, Statistics, Probability, Data Visualization;

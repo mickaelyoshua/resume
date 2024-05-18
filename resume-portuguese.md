@@ -1,11 +1,11 @@
 # MICKAEL REIS
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674)
 
-Análise de Dados • Engenharia de Dados • Business Intelligence
+Análise de Dados • Engenharia de Dados
 
-Olá, meu nome é Mickael Yoshua Cardoso Reis. Gosto muito de trabalhar com Análise/Engenharia de Dados desde que comecei meu Estágio no Tribunal de Contas da Paraíba e venho estudando e praticando a área e desde então.
-
-Estou em busca de novas oportunidades para crescer e contribuir na minha área profissional de Dados e espero que vocês me considerem um emprego para que possamos trabalhar juntos.
+Olá, meu nome é Mickael Yoshua. Tenho forte experiência em Engenharia de Dados e Análise de Dados. Já contribuí constuindo e gerenciando dois Bancos de Dados que atualmente são utilizados no Tribunal de Contas do Estado da Paraíba, realizei vários relatórios utilizando Python e SQL levando diferentes insights como a situação econômica de municípios e estados através de Análise Estatística e uso de Indicadores e já criei dashoboards em QlikView para melhor visualização e análise de dados.<br>
+Estou em busca de novas oportunidades para crescer e contribuir na área profissional de Dados e
+espero que vocês me considerem um emprego para que possamos trabalhar juntos.
 
 # HABILIDADES
 * Análise de Dados/Business Intelligence: QlikView, Estatística, Probabilidade, Visualização de Dados;
