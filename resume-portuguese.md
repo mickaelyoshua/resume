@@ -3,7 +3,8 @@ João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • [LinkedIn](https://www
 
 Análise de Dados • Engenharia de Dados
 
-Olá, meu nome é Mickael Yoshua. Tenho forte experiência em Engenharia de Dados e Análise de Dados. Já contribuí constuindo e gerenciando dois Bancos de Dados que atualmente são utilizados no Tribunal de Contas do Estado da Paraíba, realizei vários relatórios utilizando Python e SQL levando diferentes insights como a situação econômica de municípios e estados através de Análise Estatística e uso de Indicadores e já criei dashoboards em QlikView para melhor visualização e análise de dados.<br>
+Olá, meu nome é Mickael Yoshua. Tenho forte experiência em Engenharia de Dados e Análise de Dados. Já contribuí constuindo e gerenciando dois Bancos de Dados que atualmente são utilizados no Tribunal de Contas do Estado da Paraíba, realizei vários relatórios utilizando Python e SQL levando diferentes insights como a situação econômica de municípios e estados através de Análise Estatística e uso de Indicadores e já criei dashoboards em QlikView para melhor visualização e análise de dados.<br><br>
+Tenho um bom conhecimento em desenvolvimento Backend, aprendizagem de máquina, estatística e cálculo.<br><br>
 Estou em busca de novas oportunidades para crescer e contribuir na área profissional de Dados e
 espero que vocês me considerem um emprego para que possamos trabalhar juntos.
 

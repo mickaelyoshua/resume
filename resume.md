@@ -3,8 +3,9 @@ João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www
 
 Data Analysis • Data Engineering
 
-Hi, my name is Mickael Yoshua. I have strong experience with Data Engineering and Data Analysis. I have contribue building and managing two Data Bases for the Paraíba's Court of Accounts, made several reports using Python and SQL bringing differents insights about the economic situation of cities and states through Statistical Analysis and use of Indicators and created dashboards in QlikView for better data visualization and analysis.<br>
-I'm seraching for new oportunities to grow and contribue in Data professional area and hope that you'll consider me to a spot so we can work together
+Hi, my name is Mickael Yoshua. I have strong experience with Data Engineering and Data Analysis. I have contribue building and managing two Data Bases for the Paraíba's Court of Accounts, made several reports using Python and SQL bringing differents insights about the economic situation of cities and states through Statistical Analysis and use of Indicators and created dashboards in QlikView for better data visualization and analysis.<br><br>
+I have a good knowledge in Backend development, machine learning, statistics and calculus.<br><br>
+I'm seraching for new oportunities to grow and contribue in Data professional area and hope that you'll consider me to a spot so we can work together.
 
 # SKILLS
 * Back-End: FastAPI, TDD, Pytest;
