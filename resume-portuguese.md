@@ -1,12 +1,12 @@
 # MICKAEL REIS
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674)
 
-Análise de Dados • Engenharia de Dados
+Análise de Dados • Engenharia de Dados • Desenvolvedor Back-end • Social Mídia / Design
 
 Olá, meu nome é Mickael Yoshua. Tenho forte experiência em Engenharia de Dados e Análise de Dados. Já contribuí constuindo e gerenciando dois Bancos de Dados que atualmente são utilizados no Tribunal de Contas do Estado da Paraíba, realizei vários relatórios utilizando Python e SQL levando diferentes insights como a situação econômica de municípios e estados através de Análise Estatística e uso de Indicadores e já criei dashoboards em QlikView para melhor visualização e análise de dados.<br><br>
 Tenho um bom conhecimento em desenvolvimento Backend, aprendizagem de máquina, estatística e cálculo.<br><br>
-Estou em busca de novas oportunidades para crescer e contribuir na área profissional de Dados e
-espero que vocês me considerem um emprego para que possamos trabalhar juntos.
+Possuo experiência em edição de vídeo no CapCut e no Adobe Premiere, como também edição de imagem e criação de arte no Canva e no Adobe Photoshop.<br><br>
+Estou em busca de novas oportunidades para crescer e contribuir na área profissional de Dados/Desenvolvimento/Segurança e espero que vocês me considerem um emprego para que possamos trabalhar juntos.
 
 # HABILIDADES
 * Back-End: FastAPI, TDD, Pytest;
@@ -14,11 +14,20 @@ espero que vocês me considerem um emprego para que possamos trabalhar juntos.
 * Ciência de Dados: Pandas, Numpy, Scikit-Learn, Tensorflow;
 * Engenharia de Dados: Amazon Web Service (AWS), Pyspark, PostgreSQL, SQL Server;
 * Outros: Git, Python, C++, SQL, Web Scraping, Docker.
+* Social Mídia / Design: Canva, Adobe Photoshop, Capcut, Adobe Premiere;
 
 # EXPERIÊNCIA PROFISSIONAL
-## Estagiário em Análise de Dados - Junho de 2022 até o presente
-Estágio no Tribunal de Contas da Paraíba, localizado em João Pessoa - PB.
+## Estagiário em Administrativo / Marketing - Setembro de 2024 até Presente
+Estágio na empresa Empadinhas Barnabé, localizada em João Pessoa - PB.<br>
+* Gerenciar espações e conteúdo em ambiente colaborativo virtual;
+* Participar no desenvolvimento de ferramentas para medição de resultados (gráficos / dashboards);
+* Fornecer suporte administrativo em redes;
+* Gestão do Instagram da empresa;
+* Criação e edição de vídeos e imagens;
+* Organização e cobertura de eventos e parcerias.
 
+## Estagiário em Análise de Dados - Junho de 2022 até Junho de 2024
+Estágio no Tribunal de Contas da Paraíba, localizado em João Pessoa - PB.<br>
 * Construir e Gerenciar Banco de Dados Relacional;
 * Construir dashboards para análise de dados e para consulta dos Auditores;
 * Extrair, Transformar e Carregar dados (ETL) para alimentar dashboards e relatórios de análise;
@@ -26,7 +35,7 @@ Estágio no Tribunal de Contas da Paraíba, localizado em João Pessoa - PB.
 
 Contribuir na análise de notas fiscais públicas (medicamentos e material hospitalar) criando scripts SQL para alimentar um QlikView dashboard; Automatizar a extração de dados do DATASUS, a partir dele transformar e carreguar os dados em um Banco de Dados Relacional e um QlikView Dashboard; Multiplas análises e relatórios de dados.
 
-## Estagiário em Design de Projetos de Distribuição Elétrica - Set 2020 a Jun 2022
+## Estagiário em Design de Projetos de Distribuição Elétrica - Setembro 2020 até Junho 2022
 Estágio na Engeselt, localizada em João Pessoa - PB. Serviço de design e orçamento de projetos de distribuição elétrica para Energisa-MS.
 
 # PROJETOS PESSOAIS

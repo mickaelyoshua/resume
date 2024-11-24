@@ -1,11 +1,12 @@
 # MICKAEL REIS
 João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674)
 
-Data Analysis • Data Engineering
+Data Analysis • Data Engineering • Back-end Developer • Social Midia / Design
 
 Hi, my name is Mickael Yoshua. I have strong experience with Data Engineering and Data Analysis. I have contribue building and managing two Data Bases for the Paraíba's Court of Accounts, made several reports using Python and SQL bringing differents insights about the economic situation of cities and states through Statistical Analysis and use of Indicators and created dashboards in QlikView for better data visualization and analysis.<br><br>
 I have a good knowledge in Backend development, machine learning, statistics and calculus.<br><br>
-I'm seraching for new oportunities to grow and contribue in Data professional area and hope that you'll consider me to a spot so we can work together.
+Good expirience with video editing in Capcut and Adobe Premiere, image editing and art creation with Canva and Adobe Photoshop.<br><br>
+I'm seraching for new oportunities to grow and contribue in Data/Development/Security professional area and hope that you'll consider me to a spot so we can work together.
 
 # SKILLS
 * Back-End: FastAPI, TDD, Pytest;
@@ -13,11 +14,20 @@ I'm seraching for new oportunities to grow and contribue in Data professional ar
 * Data Science: Pandas, Numpy, Scikit-Learn, Tensorflow;
 * Data Engineering: Amazon Web Service (AWS), Pyspark, PostgreSQL, SQL Server;
 * Others: Git, Python, C++, SQL, Web Scraping, Docker.
+* Social Midia / Design: Canva, Adobe Photoshop, Capcut, Adobe Premiere;
 
 # PROFESSIONAL EXPERIENCE
-## Intern in Data Analysis - Jun 2022 to Present
-Intership at Court of Auditors of Paraíba, located in João Pessoa - PB.
+## Internship in Administration / Marketing - September 2024 to Present
+Internship on company Empadinhas Barnabé, located in João Pessoa - PB.<br>
+* Manage content in colaborative virtual environment;
+* Develop tools for results measurement (charts / dashboards);
+* Administrative suport;
+* Manage company`s Instagram;
+* Creation and editing of videos and images;
+* Organize and record events and partnerships.
 
+## Intern in Data Analysis - June 2022 to June 2024
+Internship at Court of Auditors of Paraíba, located in João Pessoa - PB.<br>
 * Build and Manage Relational Database;
 * Build dashboards for data analysis and for Auditors to consult;
 * Extract, Transform and Load data (ETL) to feed dashboards and analysis reports;
@@ -25,8 +35,8 @@ Intership at Court of Auditors of Paraíba, located in João Pessoa - PB.
 
 Contribute to analysis of public invoids (medicine and hospital material) by making SQL scripts to feed a QlikView dashboard; Automate the extraction of data from DATASUS, from that transform and load the data into a Relational DataBase and a QlikView Dashboard; Multiple analysis and reports on data.
 
-## Intern in Electrical Distribution Projects Design - Sep 2020 to Jun 2022
-Intership at Engeselt, located in João Pessoa - PB. Service of design and budget of eletrical distribution projects for Energisa-MS.
+## Intern in Electrical Distribution Projects Design - September 2020 to June 2022
+Internship at Engeselt, located in João Pessoa - PB. Service of design and budget of eletrical distribution projects for Energisa-MS.
 
 # PERSONAL PROJECTS
 ### [API para operações CRUD em Banco de Dados de Finanças](https://github.com/mickaelyoshua7674/laos-finances)
