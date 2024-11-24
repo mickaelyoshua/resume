@@ -1,6 +1,6 @@
 # Mickael Yoshua
-João Pessoa - PB, Brazil • mickaelyoshua@gmail.com • [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674)
-
+João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • Telefone - +55 (83) 99831-3270<br>
+[LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674) • [Whatsapp](https://wa.me/5583998313270)
 Data Analysis • Data Engineering • Back-end Developer • Social Midia / Design
 
 Hi, my name is Mickael Yoshua. I have strong experience with Data Engineering and Data Analysis. I have contribue building and managing two Data Bases for the Paraíba's Court of Accounts, made several reports using Python and SQL bringing differents insights about the economic situation of cities and states through Statistical Analysis and use of Indicators and created dashboards in QlikView for better data visualization and analysis.<br><br>
