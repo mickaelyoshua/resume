@@ -4,11 +4,11 @@ João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • Telefone - +55 (83) 99
 
 Análise de Dados • Engenharia de Dados • Desenvolvedor Back-end
 
-Meu nome é Mickael Yoshua, possuo uma forte experiência com Engenharia e Análise de Dados. Já construí modelos de banco de dados, documentação e implementação dos mesmos. Possuo bom estudo e prática em Desenvolvimento Backend como também ótimo conhecimento em cálculo e estatística.<br>
+Meu nome é Mickael Yoshua, possuo uma forte experiência com Engenharia e Análise de Dados. Já construí modelos de banco de dados, documentação e implementação dos mesmos. Possuo bom estudo e prática em Desenvolvimento Backend, Computação na Núvem como também ótimo conhecimento em cálculo e estatística.<br>
 Sou uma pessoa muito organizada e metódica, procuro sempre deixar tudo o mais claro, preciso e correto possível através de boa análise, planejamento e execução.<br><br>
 
 # HABILIDADES
-* Linguagens de programação: Python, SQL, Golang, C/C++;
+* Linguagens de programação: Python, SQL, Go, C/C++;
 * Análise de Dados: Pandas, Matplotlib, Excel, Power BI, QlikView;
 * Engenharia de Dados: Amazon Web Service (AWS), Pyspark, PostgreSQL, SQL Server;
 * Outros: Git, Docker.
