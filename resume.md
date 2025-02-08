@@ -1,31 +1,18 @@
 # Mickael Yoshua
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • Phone Number - +55 (83) 99831-3270<br>
 [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674) • [Whatsapp](https://wa.me/5583998313270)
-Data Analysis • Data Engineering • Back-end Developer • Social Midia / Design
+Data Analysis • Data Engineering • Back-end Developer
 
-Hi, my name is Mickael Yoshua. I have strong experience with Data Engineering and Data Analysis. I have contribue building and managing two Data Bases for the Paraíba's Court of Accounts, made several reports using Python and SQL bringing differents insights about the economic situation of cities and states through Statistical Analysis and use of Indicators and created dashboards in QlikView for better data visualization and analysis.<br><br>
-I have a good knowledge in Backend development, machine learning, statistics and calculus.<br><br>
-Good expirience with video editing in Capcut and Adobe Premiere, image editing and art creation with Canva and Adobe Photoshop.<br><br>
-I'm seraching for new oportunities to grow and contribue in Data/Development/Security professional area and hope that you'll consider me to a spot so we can work together.
+My name is Mickael Yoshua. I have strong expirience with Data Analysis / Data Engineering. I've builded Database models, documented and implemented then. Have a good study and practice with Backend Development, Cloud Computing, Statistics and Calculus.<br>
+I'm very organized, always looking to be the most clear and precise possible with good analysis, planning and execution.<br><br>
 
 # SKILLS
-* Back-End: FastAPI, TDD, Pytest;
-* Data Analysis / Business Intelligence: QlikView, Statistics, Probability, Data Visualization;
-* Data Science: Pandas, Numpy, Scikit-Learn, Tensorflow;
-* Data Engineering: Amazon Web Service (AWS), Pyspark, PostgreSQL, SQL Server;
-* Others: Git, Python, C++, SQL, Web Scraping, Docker.
-* Social Midia / Design: Canva, Adobe Photoshop, Capcut, Adobe Premiere;
+* Programming languages: Go, Python, SQL, C/C++;
+* Data Analysis: Pandas, Matplotlib, Excel, Power BI, QlikView;
+* Data Engineering: Amazon Web Services (AWS), Pyspark, PostgreSQL, SQL Server, MongoDB;
+* Others: Docker, Git.
 
 # PROFESSIONAL EXPERIENCE
-## Internship in Administration / Marketing - September 2024 to Present
-Internship on company Empadinhas Barnabé, located in João Pessoa - PB.<br>
-* Manage content in colaborative virtual environment;
-* Develop tools for results measurement (charts / dashboards);
-* Administrative suport;
-* Manage company`s Instagram;
-* Creation and editing of videos and images;
-* Organize and record events and partnerships.
-
 ## Intern in Data Analysis - June 2022 to June 2024
 Internship at Court of Auditors of Paraíba, located in João Pessoa - PB.<br>
 * Build and Manage Relational Database;
@@ -41,7 +28,6 @@ Internship at Engeselt, located in João Pessoa - PB. Service of design and budg
 # PERSONAL PROJECTS
 ### [API para operações CRUD em Banco de Dados de Finanças](https://github.com/mickaelyoshua7674/laos-finances)
 The ideia came when I was studying a course about finances and one of the first instructions was to track you expenses and incomes. I searched different apps to do that but wasn't satisfyed, so I started developing my own.<br>
-A ideia veio de quando eu estava participando de um curso de finanças e uma das primeiras instruções foi registrar despesas e receitas, não me senti muito satisfeito com os apps que eu ia encontrando para isso então decidi fazer o meu próprio.<br>
 Web API developed to CRUD operations (Create, Read, Update e Delete) in PostgreSQL database created to register expenses and incomes of differents users. FastAPI and SQLAlchemy to develop an assynchronous application, tests with Pytest, Docker to run and manage the app's execution environment and the database itself and Github Actions to atomated tests.
 
 ### [ETL of public Companie's Data](https://github.com/mickaelyoshua7674/etl-cnpjs)
