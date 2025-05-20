@@ -1,6 +1,6 @@
 # Mickael Yoshua
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • Phone Number - +55 (83) 99831-3270<br>
-[LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674) • [Whatsapp](https://wa.me/5583998313270)
+[LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua) • [Whatsapp](https://wa.me/5583998313270)
 Data Analysis • Data Engineering • Back-end Developer
 
 My name is Mickael Yoshua. I have strong expirience with Data Analysis / Data Engineering. I've builded Database models, documented and implemented then. Have a good study and practice with Backend Development, Cloud Computing, Statistics and Calculus.<br>

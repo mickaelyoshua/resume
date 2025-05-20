@@ -1,6 +1,6 @@
 # Mickael Yoshua
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • Telefone - +55 (83) 99831-3270<br>
-[LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua7674) • [Whatsapp](https://wa.me/5583998313270)
+[LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [Instagram](https://www.instagram.com/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua) • [Whatsapp](https://wa.me/5583998313270)
 
 Análise de Dados • Engenharia de Dados • Desenvolvedor Back-end
 
