@@ -36,4 +36,4 @@ Profissional especializado em Análise de Dados, com experiência em extração,
 
 **Técnico em Mecânica** | IFPB • 2014 - 2017
 
-**Estudos:** Rust (Rocket, Tokio), Estruturas de Dados & Algoritmos, AWS, Linux • [Ver Certificados](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)
+**Aprendizado Contínuo:** Atualmente aprofundando em Rust (Rocket, Tokio). Estudos ativos em Estruturas de Dados & Algoritmos, AWS, Linux • [Ver Certificados](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)

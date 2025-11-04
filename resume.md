@@ -32,4 +32,4 @@ Developer specialized in Data Engineering and Analysis, database modeling, ETL a
 
 **Mechanical Technician** | IFPB • 2014 - 2017
 
-**Studies:** Rust (Rocket, Tokio), Data Structures & Algorithms, AWS, Linux • [View Certificates](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)
+**Continuous Learning:** Currently deepening knowledge in Rust (Rocket, Tokio). Active study of Data Structures & Algorithms, AWS, Linux • [View Certificates](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)
