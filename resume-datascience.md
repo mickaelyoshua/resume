@@ -1,6 +1,7 @@
 ## Mickael Yoshua Cardoso Reis
 
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • +55 (83) 99831-3270
+
 [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua) • [WhatsApp](https://wa.me/5583998313270)
 
 **Desenvolvedor • Ciência de Dados & Machine Learning**

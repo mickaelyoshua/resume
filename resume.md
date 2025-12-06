@@ -1,5 +1,7 @@
 ## Mickael Yoshua Cardoso Reis
+
 João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • +55 (83) 99831-3270
+
 [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua) • [WhatsApp](https://wa.me/5583998313270)
 
 **Data Engineer • Back-end Developer**
@@ -7,6 +9,7 @@ João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • +55 (83) 99831-3270
 Developer specialized in Data Engineering and Analysis, database modeling, ETL and back-end APIs. Experience with Python, Go, Rust, AWS and strong foundation in data structures and algorithms.
 
 **SKILLS**
+
 - **Languages:** Python, SQL, Go, Rust
 - **Back-end:** FastAPI, SQLAlchemy, RESTful APIs, Async/Await, Rocket, Gin
 - **Data:** AWS, PostgreSQL, SQL Server, Pandas, Matplotlib, Power BI, QlikView
@@ -16,6 +19,7 @@ Developer specialized in Data Engineering and Analysis, database modeling, ETL a
 **PROFESSIONAL EXPERIENCE**
 
 **Data Analysis Intern | Court of Auditors of Paraíba** • June 2022 - June 2024 • João Pessoa - PB
+
 - Relational database modeling and management (SQL Server)
 - ETL pipelines for public data (DATASUS) and QlikView dashboards
 - Automation of web scraping and SQL scripts for analysis and auditing
