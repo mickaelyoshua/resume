@@ -1,39 +1,46 @@
 ## Mickael Yoshua Cardoso Reis
 
-João Pessoa - PB, Brasil • mickaelyoshua@gmail.com • +55 (83) 99831-3270
+Joao Pessoa - PB, Brasil • mickaelyoshua@gmail.com • +55 (83) 99831-3270
 
 [LinkedIn](https://www.linkedin.com/in/mickaelyoshua/) • [GitHub](https://github.com/mickaelyoshua) • [WhatsApp](https://wa.me/5583998313270)
 
-**Engenheiro de Dados • Desenvolvedor Back-end**
+**Desenvolvedor de Software**
 
-Desenvolvedor especializado em Engenharia e Análise de Dados, modelagem de banco de dados, ETL e APIs back-end. Experiência com Python, Go, Rust, AWS e forte base em estruturas de dados e algoritmos.
+Desenvolvedor com experiencia em engenharia de dados, APIs back-end e aplicacoes full-stack. Proficiente em Python, Rust, SQL e Go. Experiencia com pipelines ETL, modelagem de banco de dados, dashboards de BI e servicos RESTful/WebSocket.
 
 **HABILIDADES**
 
-- **Linguagens:** Python, SQL, Go, Rust
-- **Back-end:** FastAPI, SQLAlchemy, APIs RESTful, Async/Await, Rocket, Gin
-- **Dados:** AWS, PostgreSQL, SQL Server, Pandas, Matplotlib, Power BI, QlikView
-- **DevOps:** Git, Docker, GitHub Actions, CI/CD
-- **Sistemas:** Linux (Arch, Ubuntu), Windows, WSL, Bash scripting
+- **Linguagens:** Python, SQL, Rust, Go
+- **Back-end:** FastAPI, Rocket, Diesel, SQLAlchemy, Gin, APIs RESTful, WebSockets
+- **Dados:** PostgreSQL, SQL Server, ETL, Pandas, Power BI, QlikView
+- **Front-end:** HTMX, Flutter
+- **DevOps:** Docker, Git, GitHub Actions, CI/CD, AWS, Linux
 
-**EXPERIÊNCIA PROFISSIONAL**
+**EXPERIENCIA PROFISSIONAL**
 
-**Estagiário em Análise de Dados | Tribunal de Contas da Paraíba** • Junho de 2022 - Junho de 2024 • João Pessoa - PB
+**Estagiario em Analise de Dados | Tribunal de Contas da Paraiba** • Junho de 2022 - Junho de 2024 • Joao Pessoa - PB
 
 - Modelagem e gerenciamento de banco de dados relacional (SQL Server)
-- Pipelines ETL para dados públicos (DATASUS) e dashboards QlikView
-- Automação de web scraping e scripts SQL para análises e auditoria
+- Pipelines ETL para dados publicos de saude (DATASUS) processando milhoes de registros
+- Dashboards QlikView para auditoria e relatorios executivos
+- Automacao de web scraping e scripts SQL/Python para analise e auditoria
 
 **PROJETOS PESSOAIS**
 
-[**ETL de Dados Públicos**](https://github.com/mickaelyoshua7674/etl-cnpjs) • Pipeline ETL para milhões de registros de CNPJs. Python, PostgreSQL, Docker com I/O assíncrono e multiprocessing.
+[**Livro & Cia**](https://github.com/mickaelyoshua/livro-e-cia) • Sistema de gestao de livraria com controle de vendas, automacao de estoque e controle de acesso por perfil. Rust (Rocket, Diesel), PostgreSQL, HTMX, Docker.
 
-**EDUCAÇÃO**
+[**ETL de Dados Publicos**](https://github.com/mickaelyoshua7674/etl-cnpjs) • Pipeline ETL para milhoes de registros de CNPJs com I/O assincrono e multiprocessing. Python, PostgreSQL, Docker.
 
-**Bacharelado em Ciência da Computação** | UNIPÊ • 2024 - Presente
+[**Fadex**](https://github.com/mickaelyoshua/fadex) • Gerador de mensagens para contratacao de professores. Le dados de candidatos do Google Sheets, extrai telefones de curriculos em PDF e gera mensagens de contato via WhatsApp. Python, Google APIs.
 
-**Engenharia Elétrica (incompleto)** | IFPB • 2018 - 2024
+**Kelsen** • Assistente juridico em tempo real com IA para consultas com clientes. Flutter, FastAPI, WebSockets.
 
-**Técnico em Mecânica** | IFPB • 2014 - 2017
+**EDUCACAO**
 
-**Aprendizado Contínuo:** Atualmente aprofundando em Rust (Rocket, Tokio). Estudos ativos em Estruturas de Dados & Algoritmos, AWS, Linux • [Ver Certificados](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)
+**Bacharelado em Ciencia da Computacao** | UNIPE • 2024 - Presente
+
+**Engenharia Eletrica (incompleto)** | IFPB • 2018 - 2024
+
+**Tecnico em Mecanica** | IFPB • 2014 - 2017
+
+**Aprendizado Continuo:** Estruturas de Dados & Algoritmos, AWS, Rust (Rocket, Tokio) • [Ver Certificados](https://www.linkedin.com/in/mickaelyoshua/details/certifications/)

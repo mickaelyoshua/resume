@@ -4,16 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a personal resume repository containing multiple versions of Mickael Yoshua's resume in different languages and targeting different roles:
+This is a personal resume repository containing Mickael Yoshua's resume in two languages:
 
-- `resume.md` - English version (Data Engineer/Back-end Developer focus)
-- `resume-portuguese.md` - Portuguese version (Data Engineer/Back-end Developer focus)
-- `resume-analyst.md` - Portuguese version tailored for Data Analyst positions
-- `resume-portuguese.pdf` - PDF export of the Portuguese version
+- `resume.md` - English version
+- `resume-portuguese.md` - Portuguese version
 
-## Repository Purpose
-
-This repository is used to maintain and version-control resume variants for different job applications. Each markdown file can be customized to emphasize different skills and experiences based on the target role.
+Both files contain the same unified content covering software development, data engineering and back-end experience.
 
 ## Working with Resume Files
 
@@ -35,15 +31,6 @@ When adapting a resume for a specific job:
 - **Refocus descriptions**: Reword existing experience to align with job requirements
 - **Update title**: Adjust the professional title to match the target role
 
-### Example: Data Analyst Focus
-For data analyst positions, emphasize:
-- Data extraction, cleaning, and analysis
-- Dashboard and report creation
-- KPIs and business insights
-- ETL pipelines and data visualization tools (Power BI, QlikView)
-
-Move these elements earlier in descriptions and skill lists while de-emphasizing pure engineering aspects.
-
 ## Git Conventions
 
 - Commit messages should be concise and direct (no verbose descriptions)
@@ -62,10 +49,10 @@ Move these elements earlier in descriptions and skill lists while de-emphasizing
 Use pandoc to convert resume files from Markdown to PDF:
 
 ```bash
-pandoc resume-minsait.md -o resume-minsait.pdf --pdf-engine=pdflatex --from=markdown -V geometry:margin=1in -V colorlinks=true -V urlcolor=blue -V mainfont="Noto Sans"
+pandoc resume.md -o resume.pdf --pdf-engine=pdflatex --from=markdown -V geometry:margin=1in -V colorlinks=true -V urlcolor=blue -V mainfont="Noto Sans"
 ```
 
-Adapt the input/output filenames as needed for other resume variants.
+Replace filenames as needed for the Portuguese version.
 
 ## Claude's Role Context
 
