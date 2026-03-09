@@ -15,6 +15,7 @@ Desenvolvedor com experiencia em engenharia de dados, APIs back-end e aplicacoes
 - **Dados:** PostgreSQL, SQL Server, ETL, Pandas, Power BI, QlikView
 - **Front-end:** HTMX, Flutter
 - **DevOps:** Docker, Git, GitHub Actions, CI/CD, AWS, Linux
+- **IA:** Claude Code (CLI) como par de pair programming, com skills customizadas e integracao GitHub via MCP
 
 **EXPERIENCIA PROFISSIONAL**
 

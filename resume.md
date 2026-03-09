@@ -15,6 +15,7 @@ Developer with experience in data engineering, back-end APIs and full-stack appl
 - **Data:** PostgreSQL, SQL Server, ETL, Pandas, Power BI, QlikView
 - **Front-end:** HTMX, Flutter
 - **DevOps:** Docker, Git, GitHub Actions, CI/CD, AWS, Linux
+- **AI:** Claude Code (CLI) as pair programming partner, with custom skills and GitHub MCP integration
 
 **PROFESSIONAL EXPERIENCE**
 
