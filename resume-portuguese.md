@@ -23,17 +23,18 @@ Desenvolvedor com experiencia em engenharia de dados, APIs back-end e aplicacoes
 - Modelagem e gerenciamento de banco de dados relacional (SQL Server)
 - Pipelines ETL para dados publicos de saude (DATASUS) processando milhoes de registros
 - Dashboards QlikView para auditoria e relatorios executivos
+- Desenvolvimento de APIs back-end com Python (FastAPI) e WebSockets
 - Automacao de web scraping e scripts SQL/Python para analise e auditoria
 
 **PROJETOS PESSOAIS**
 
-[**Livro & Cia**](https://github.com/mickaelyoshua/livro-e-cia) • Sistema de gestao de livraria com controle de vendas, automacao de estoque e controle de acesso por perfil. Rust (Rocket, Diesel), PostgreSQL, HTMX, Docker.
+[**Livro & Cia**](https://github.com/mickaelyoshua/livro-e-cia) • Sistema interno de gestao de livraria com controle de estoque, processamento de vendas e analytics. Autenticacao JWT com rotacao de tokens, controle de acesso por perfil e sincronizacao de estoque via triggers. Rust (Axum, SQLx, Askama), PostgreSQL, HTMX.
+
+[**Finances**](https://github.com/mickaelyoshua/finances) • Gerenciador de financas pessoais via terminal com rastreamento multi-conta, ciclos de faturamento de cartao de credito, controle de parcelas, orcamentos e lembretes de despesas recorrentes. Rust (Ratatui, SQLx, Tokio), PostgreSQL.
 
 [**ETL de Dados Publicos**](https://github.com/mickaelyoshua7674/etl-cnpjs) • Pipeline ETL para milhoes de registros de CNPJs com I/O assincrono e multiprocessing. Python, PostgreSQL, Docker.
 
 [**Fadex**](https://github.com/mickaelyoshua/fadex) • Gerador de mensagens para contratacao de professores. Le dados de candidatos do Google Sheets, extrai telefones de curriculos em PDF e gera mensagens de contato via WhatsApp. Python, Google APIs.
-
-**Kelsen** • Assistente juridico em tempo real com IA para consultas com clientes. Flutter, FastAPI, WebSockets.
 
 **EDUCACAO**
 
